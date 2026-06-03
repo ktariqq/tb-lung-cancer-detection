@@ -6,6 +6,7 @@ Ensemble deep learning system for multi-class medical image classification using
 ![Python](https://img.shields.io/badge/Python-3.9+-8A2BE2.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-7B68EE.svg)
 ![License](https://img.shields.io/badge/License-MIT-4B0082.svg)
+![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-ff4da6)
 
 <div align="center">
 
